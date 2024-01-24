@@ -5,7 +5,7 @@
 - 📫 I am based in Edinburgh Scotland U.K
 - My Home address is 52 Silverknowes View Edinburgh EH4 5PT
 - My Mobile Phone Number is 07471604853
-- My Study background is Geosciences Engineer and two Master Degrees in Geomatics
+- My Study background is Geosciences Engineer and two Master Degrees in Geomatics and Geophysics
 - -I have also a solid background in Maths
 <!---
 asmaghoul/asmaghoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
